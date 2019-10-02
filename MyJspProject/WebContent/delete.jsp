@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body bgcolor="yellow">
+<center>
+<h1>Student Registration Details</h1><br>
+<form action="workdelete.jsp">
+ID:<input type="text" name="id"><br><br>
+<input type="submit" value="Delete">
+</form>
+</center>
+
+</body>
+</html>
